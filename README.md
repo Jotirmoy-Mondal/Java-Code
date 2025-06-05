@@ -1,0 +1,1 @@
+#Various types of coding problem i have solved.
